@@ -45,3 +45,7 @@ Implementación en Java Swing con conexión a MySQL
 Creacion de CRUDS (dueños, mascotas y controles medicos)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Terminamos con Main.Java
+- - - - - - - - - - - - - - - - - - - - - - - -  -
+
+**Video de la ejecucion del programa**
+https://www.loom.com/share/37078dfdf0284145aa67c1090c5ded41?sid=a68d0ce0-de4e-4e2c-9ea3-fda0d0aceb99
